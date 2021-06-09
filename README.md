@@ -20,14 +20,3 @@ NOTES:
 - Send files
 
 - User disconnects set files to unavailable
-
-TODO:
-
-- Use user tags to create rooms
-- Generate room id
-- Store rooms with id and name
-- Group files by room
-- Display user availability
-- Improve frontend interface
-- Use email & password credentials
-- Test availability
