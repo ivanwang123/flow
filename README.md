@@ -1,6 +1,6 @@
 # Flow 🌊
 
-Peer-to-peer file sharing
+Peer-to-peer file sharing using WebTorrent
 
 ## Setup
 
