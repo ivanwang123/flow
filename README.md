@@ -2,11 +2,18 @@
 
 Peer-to-peer file sharing
 
-## SETUP
+## Setup
 
 - `cd server`, `npm run dev`
 - `cd client`, `npm start`
 
-## SCREENSHOTS
+## Screenshots
 
-![alt text](https://github.com/ivanwang123/flow/blob/main/Screenshot 2021-08-08 205630.png?raw=true)
+### Create a new room
+![New room](https://github.com/ivanwang123/flow/blob/main/screenshots/flow-new-room.png?raw=true)
+
+### Host a file
+![Hosting](https://github.com/ivanwang123/flow/blob/main/screenshots/flow-hosting.png?raw=true)
+
+### Download a file
+![Downloading](https://github.com/ivanwang123/flow/blob/main/screenshots/flow-downloading.png?raw=true)
